@@ -1,0 +1,5 @@
+#input("What is your name?")
+#print("Hello" + " " + input("What is your name?"))
+# print("Hello" + input("What is your name?") + "!")
+# print(len("jack"))
+# print(len(input("What is your name")))
